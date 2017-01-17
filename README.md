@@ -8,11 +8,15 @@ This course provides an introduction to the study of cities through new forms of
 * Professor Alex Singleton, University of Liverpool
 * Dr Dani Arribas-Bel, University of Liverpool
 
+# Download
+
+You can download all the files needed for this course here: [https://github.com/alexsingleton/GDS_UA_2017/archive/master.zip](https://github.com/alexsingleton/GDS_UA_2017/archive/master.zip)
+
 # Schedule
 
 ## Monday 23rd January 2017 (DAY 1)
 * 09:20 - 10:40 - Student Software Preparation for the Course
-* 10:40 - 12:10 Public Seminar (1 Slot)
+* 10:40 - 12:10 Public Seminar
     * Urban Analytics: City Structure and Function - Alex Singleton
     * Bringing New Forms of Data to the Analysis of Cities - Dani Arribas-Bel
 * _12.10 - 13.10 - LUNCH_
@@ -33,12 +37,12 @@ This course provides an introduction to the study of cities through new forms of
 * 10:50 - 12:10 - Lecture / Independent - Introduction to the Group Project
 * _12:10 - 13:10 - LUNCH_
 * 13:10 - 14:00 -  Student Project Planning - Stage 1
-* 14:45 - 15:30 - Seminar - Student Project Brief Review - Stage 2 (0.5 Slot)
-* 15:30 - 17:00 - Independent - Student Led Analysis - Stage 3 (1 Slot)
+* 14:45 - 15:30 - Seminar - Student Project Brief Review - Stage 2
+* 15:30 - 17:00 - Independent - Student Led Analysis - Stage 3
 
 ## Thursday 26 January 2017 (DAY 4)
-* 09:20 - 10:50 - Independent - Student Led Analysis - Stage 3 (1 Slot)
-* 10:50 - 12:40 - Presentation - Groups Talks and Prizes (1 Slot)
+* 09:20 - 10:50 - Independent - Student Led Analysis - Stage 3
+* 10:50 - 12:40 - Presentation - Groups Talks and Prizes
 
 # Group Project Assignment
 
