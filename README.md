@@ -17,19 +17,19 @@ This course provides an introduction to the study of cities through new forms of
     * Bringing New Forms of Data to the Analysis of Cities - Dani Arribas-Bel
 * _12.10 - 13.10 - LUNCH_
 * 13.10 - 14.00 - Lecture - Introduction to Geographic Data Science for Urban Analytics
-* 14.00 - 15.30 - [Practical - Introduction to R](/Introduction_to_R/)
-* 15.30 - 17.30 - [Practical - Data Manipulation in R](/Data Manipulation_in_R/)
+* 14.00 - 15.30 - [Practical - Introduction to R](./Introduction_to_R/)
+* 15.30 - 17.30 - [Practical - Data Manipulation in R](./Data Manipulation_in_R/)
 
 ## Tuesday 24 January 2017 (DAY 2)
-* 09:20 - 10:50 - [Practical - Descriptive Statistics](/Descriptive_statistics/)
-* 10:50 - 12:10 - [Practical - Data Viz 1 - Charts and Graphs](/Charts_and_Graphs/)
+* 09:20 - 10:50 - [Practical - Descriptive Statistics](./Descriptive_statistics/)
+* 10:50 - 12:10 - [Practical - Data Viz 1 - Charts and Graphs](./Charts_and_Graphs/)
 * _12:10 - 13:10 - LUNCH_
 * 13:10 - 14:00 - Lecture - Cities and Context
-* 14:00 - 15:30 - [Practical - Data Viz 2 - Mapping Areas and Context](/Mapping_Areas_and_Context/)
-* 15:30 - 17:00 - [Practical - Data Viz 3 - Visualizing Point Patterns](/Visualizing_Point_Patterns/)
+* 14:00 - 15:30 - [Practical - Data Viz 2 - Mapping Areas and Context](./Mapping_Areas_and_Context/)
+* 15:30 - 17:00 - [Practical - Data Viz 3 - Visualizing Point Patterns](./Visualizing_Point_Patterns/)
 
 ## Wednesday 25 January 2017 (DAY 3)
-* 09:20 - 10:50 - [Practical - Data Viz 4 - Mapping Flows](/Mapping_Flows/)
+* 09:20 - 10:50 - [Practical - Data Viz 4 - Mapping Flows](./Mapping_Flows/)
 * 10:50 - 12:10 - Lecture / Independent - Introduction to the Group Project
 * _12:10 - 13:10 - LUNCH_
 * 13:10 - 14:00 -  Student Project Planning - Stage 1
