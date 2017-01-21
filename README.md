@@ -28,7 +28,7 @@ You can download all the files needed for this course here: [https://github.com/
 * 09:20 - 10:50 - [Practical - Descriptive Statistics](/GDS_UA_2017/Descriptive_statistics/)
 * 10:50 - 12:10 - [Practical - Data Viz 1 - Charts and Graphs](/GDS_UA_2017/Charts_and_Graphs/)
 * _12:10 - 13:10 - LUNCH_
-* 13:10 - 14:00 - Lecture - Cities and Context
+* 13:10 - 14:00 - Lecture - Reproducible Research
 * 14:00 - 15:30 - [Practical - Data Viz 2 - Mapping Areas and Context](/GDS_UA_2017/Mapping_Areas_and_Context/)
 * 15:30 - 17:00 - [Practical - Data Viz 3 - Visualizing Point Patterns](/GDS_UA_2017/Visualizing_Point_Patterns/)
 
