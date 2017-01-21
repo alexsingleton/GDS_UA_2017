@@ -17,7 +17,7 @@ You can download all the files needed for this course here: [https://github.com/
 ## Monday 23rd January 2017 (DAY 1)
 * 09:20 - 10:40 - Student Software Preparation for the Course
 * 10:40 - 12:10 Public Seminar
-    * Urban Analytics: City Structure and Function - Alex Singleton
+    * [Urban Analytics: City Structure and Function - Alex Singleton](/GDS_UA_2017/presentation/Singleton_Public_Lecture.pdf)
     * Bringing New Forms of Data to the Analysis of Cities - Dani Arribas-Bel
 * _12.10 - 13.10 - LUNCH_
 * 13.10 - 14.00 - Lecture - Introduction to Geographic Data Science for Urban Analytics
