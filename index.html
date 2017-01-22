@@ -213,11 +213,11 @@ $(document).ready(function () {
 <div id="package-script" class="section level2">
 <h2>Package Script</h2>
 <p>The following script will install all the additional R packages that will be needed for this course; however, these are also referenced within the practical documents where functions are used.</p>
-<pre class="r"><code>pcks &lt;- c(&quot;ggplot2&quot;,&quot;scales&quot;,&quot;XLConnect&quot;,&quot;rgdal&quot;,&quot;raster&quot;,&quot;spatialEco&quot;,&quot;doBy&quot;,&quot;classInt&quot;,&quot;RColorBrewer&quot;,&quot;maptools&quot;,&quot;tmap&quot;,&quot;googleway&quot;,&quot;lubridate&quot;,&quot;ggmap&quot;,&quot;plotly&quot;)
+<pre class="r"><code>pcks &lt;- c(&quot;proj4&quot;,&quot;stringi&quot;,&quot;ggplot2&quot;,&quot;scales&quot;,&quot;XLConnect&quot;,&quot;rgdal&quot;,&quot;raster&quot;,&quot;spatialEco&quot;,&quot;doBy&quot;,&quot;classInt&quot;,&quot;RColorBrewer&quot;,&quot;maptools&quot;,&quot;tmap&quot;,&quot;googleway&quot;,&quot;lubridate&quot;,&quot;ggmap&quot;,&quot;plotly&quot;)
 
 for (i in 1:length(pcks)) {
-  install.packages(paste(pcks[i]))
-  library(paste(pcks[i]))
+  install.packages(pcks[i])
+  library(pcks[i],character.only=TRUE)
 }</code></pre>
 </div>
 </div>
