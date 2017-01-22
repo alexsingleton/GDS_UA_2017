@@ -146,7 +146,7 @@ $(document).ready(function () {
 <li>10:40 - 12:10 Public Seminar
 <ul>
 <li><a href="/GDS_UA_2017/presentation/Singleton_Public_Lecture.pdf">Urban Analytics: City Structure and Function - Alex Singleton</a></li>
-<li>Bringing New Forms of Data to the Analysis of Cities - Dani Arribas-Bel</li>
+<li><a href="/GDS_UA_2017/presentation/darribas.pdf">Bringing New Forms of Data to the Analysis of Cities - Dani Arribas-Bel</a></li>
 </ul></li>
 <li><em>12.10 - 13.10 - LUNCH</em></li>
 <li>13.10 - 14.00 - <a href="/GDS_UA_2017/presentation/Intro_GDS_UA.pdf">Lecture - Introduction to Geographic Data Science for Urban Analytics</a></li>
@@ -208,17 +208,22 @@ $(document).ready(function () {
 </div>
 <div id="prizes" class="section level2">
 <h2>Prizes</h2>
-<p>Extra special prizes will be awarded during the final session!</p>
+<p><em>Extra special prizes will be awarded during the final session!</em></p>
 </div>
 <div id="package-script" class="section level2">
 <h2>Package Script</h2>
-<p>The following script will install all the additional R packages that will be needed for this course; however, these are also referenced within the practical documents where functions are used.</p>
-<pre class="r"><code>pcks &lt;- c(&quot;proj4&quot;,&quot;stringi&quot;,&quot;ggplot2&quot;,&quot;scales&quot;,&quot;XLConnect&quot;,&quot;rgdal&quot;,&quot;raster&quot;,&quot;spatialEco&quot;,&quot;doBy&quot;,&quot;classInt&quot;,&quot;RColorBrewer&quot;,&quot;maptools&quot;,&quot;tmap&quot;,&quot;googleway&quot;,&quot;lubridate&quot;,&quot;ggmap&quot;,&quot;plotly&quot;)
+<p>The following script will install all the additional R packages that will be needed for this course; however, these are also referenced within the practical documents where functions are used. <em>If you are asked to restart R, click no during these installs.</em></p>
+<pre class="r"><code>pcks &lt;- c(&quot;devtools&quot;,&quot;RCurl&quot;,&quot;XML&quot;,&quot;jpeg&quot;,&quot;png&quot;,&quot;proj4&quot;,&quot;stringi&quot;,&quot;ggplot2&quot;,&quot;scales&quot;,&quot;XLConnect&quot;,&quot;rgdal&quot;,&quot;raster&quot;,&quot;doBy&quot;,&quot;classInt&quot;,&quot;RColorBrewer&quot;,&quot;maptools&quot;,&quot;tmap&quot;,&quot;googleway&quot;,&quot;lubridate&quot;,&quot;ggmap&quot;,&quot;plotly&quot;,&quot;spatialEco&quot;)
 
 for (i in 1:length(pcks)) {
-  install.packages(pcks[i])
+  print(pcks[i])
+  install.packages(pcks[i],dependencies = TRUE)
   library(pcks[i],character.only=TRUE)
-}</code></pre>
+}
+
+# If you have issues with either ggplot or ggmap it would be worth installing these
+# devtools::install_github(&quot;dkahle/ggmap&quot;)
+# devtools::install_github(&quot;hadley/ggplot2&quot;)</code></pre>
 </div>
 </div>
 
