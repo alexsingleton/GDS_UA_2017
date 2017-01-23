@@ -162,7 +162,7 @@ Much in the same way that we can subset a data frame, we can also create subsets
 First we will read in the Ward boundaries.
 
 ```{r}
-WARD <- readOGR("./data/", "england_cmwd_2011Polygon")
+WARD <- readOGR("./data", "england_cmwd_2011Polygon")
 ```
 
 There are 22 wards, which are named as follows.
@@ -389,7 +389,7 @@ Leeds_Cartogram <- cartogram(Leeds, "Usual_Residents_2011", itermax = 15, maxSiz
 ```
 
 ```{r echo=FALSE, warning=FALSE,message=FALSE}
-Leeds_Cartogram <- readOGR("./data/","Leeds_Cartogram",verbose = FALSE)
+Leeds_Cartogram <- readOGR("./data","Leeds_Cartogram",verbose = FALSE)
 ```
 
 We can now create a map as we did a basic choropleth, however, you will see that the zones are distorted:
