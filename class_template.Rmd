@@ -1,0 +1,43 @@
+---
+title: "Title of your document"
+author: Your name here
+output: html_document
+---
+
+# Title 1
+## Title 2
+### Title 3
+
+This is an example of some text. You can add *bold* text with the "*" and _italic_ using the "_".
+
+You can also do lists:
+
+* Item 1
+* Item 2
+* Item 3
+
+Or numbered lists:
+
+1. One
+2. Two
+3. Three
+
+We can add a hyperlink as [follows](http://www.alex-singleton.com).
+
+Adding a block of R code is easy. When this document is knit, the default is to print the code and the output - for example:
+
+```{r}
+summary(cars)
+```
+
+Although, you can also add "echo=FALSE" to the "```{r echo=FALSE}" and the code will not print, but the outputs will still be shown:
+
+```{r echo=FALSE}
+summary(cars)
+```
+
+You can also embed plots using the same method, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```

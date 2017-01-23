@@ -50,6 +50,8 @@ The group project will be introduced at 10.50 on Day 3. The projects is designed
 
 ## Assignment 
 
+Class template: [download](/GDS_UA_2017/class_template.Rmd)
+
 For a city anywhere in the world; utilize those skills acquired during this course to create a data driven profile that describes:
 
 1. Some aspects of population structure
