@@ -169,7 +169,7 @@ install.packages("rgdal")
 library(rgdal)
 
 # Read Shapefile
-SF <- readOGR(dsn = "./Data/", layer = "tl_2010_06075_tract10")
+SF <- readOGR(dsn = "./data", layer = "tl_2010_06075_tract10")
 ```
 
 This has created a SpatialPolygonsDataFrame Reading Spatial Data[^2] object and can view the tract boundaries using the plot() function:
