@@ -192,10 +192,9 @@ $(document).ready(function () {
 </div>
 <div id="group-project-assignment" class="section level1">
 <h1>Group Project Assignment</h1>
-<p>The group project will be introduced at 09.20 on Day 3. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assesment will be a 10-12 minute presentation in the final session on Thursday 26th January.</p>
+<p>The group project will be introduced at 09.20 on Day 3. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assessment will be a 10-12 minute presentation in the final session on Thursday 26th January.</p>
 <div id="assignment" class="section level2">
 <h2>Assignment</h2>
-<p>Class template: <a href="/GDS_UA_2017/class_template.Rmd">download</a></p>
 <p>For a city anywhere in the world; utilize those skills acquired during this course to create a data driven profile that describes:</p>
 <ol style="list-style-type: decimal">
 <li>Some aspects of population structure</li>
@@ -204,10 +203,16 @@ $(document).ready(function () {
 </ol>
 <p>The project will run in two stages:</p>
 <ul>
-<li><p><em>Stage 1</em> - You will work within your groups to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project. For each, you will need to create a flow chart of how you will implement you analysis.</p></li>
-<li><p><em>Stage 2</em> - A session has been allocated where you can discuss your proposed analysis with either Dani Arribas-Bel or Alex Singleton who will give feedback.</p></li>
-<li><p><em>Stage 3</em> - Two sessions have been allocated that will enable you to complete your analysis and create a presentation.</p></li>
+<li><p><em>Stage 1</em> - You will work individually or within your groups to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.</p></li>
+<li><p><em>Stage 2</em> - A session has been allocated where you can discuss your proposed analysis with Dani Arribas-Bel and Alex Singleton who will give you feedback / suggestions.</p></li>
+<li><p><em>Stage 3</em> - Three sessions have been allocated that will enable you to complete your independent analysis and create a presentation.</p></li>
 </ul>
+<p>If you would like to create a document of your code, then we would suggest using the class markdown template: <a href="/GDS_UA_2017/class_template.Rmd">download</a>. If you add this to a new directory for your assignment, it would also be sensible to store any data that you use in a sub folder called “data”.</p>
+</div>
+<div id="looking-for-inspiration." class="section level2">
+<h2>Looking for inspiration….</h2>
+<iframe src="https://opendatainception.io/" height="800" width="100%" allowfullscreen frameborder="0">
+</iframe>
 </div>
 <div id="evaluation" class="section level2">
 <h2>Evaluation</h2>
@@ -216,21 +221,6 @@ $(document).ready(function () {
 <div id="prizes" class="section level2">
 <h2>Prizes</h2>
 <p><em>Extra special prizes will be awarded during the final session!</em></p>
-</div>
-<div id="package-script" class="section level2">
-<h2>Package Script</h2>
-<p>The following script will install all the additional R packages that will be needed for this course; however, these are also referenced within the practical documents where functions are used. <em>If you are asked to restart R, click no during these installs.</em></p>
-<pre class="r"><code>pcks &lt;- c(&quot;devtools&quot;,&quot;RCurl&quot;,&quot;XML&quot;,&quot;jpeg&quot;,&quot;png&quot;,&quot;proj4&quot;,&quot;stringi&quot;,&quot;ggplot2&quot;,&quot;scales&quot;,&quot;XLConnect&quot;,&quot;rgdal&quot;,&quot;raster&quot;,&quot;doBy&quot;,&quot;classInt&quot;,&quot;RColorBrewer&quot;,&quot;maptools&quot;,&quot;tmap&quot;,&quot;googleway&quot;,&quot;lubridate&quot;,&quot;ggmap&quot;,&quot;plotly&quot;,&quot;spatialEco&quot;)
-
-for (i in 1:length(pcks)) {
-  print(pcks[i])
-  install.packages(pcks[i],dependencies = TRUE)
-  library(pcks[i],character.only=TRUE)
-}
-
-# If you have issues with either ggplot or ggmap it would be worth installing these
-# devtools::install_github(&quot;dkahle/ggmap&quot;)
-# devtools::install_github(&quot;hadley/ggplot2&quot;)</code></pre>
 </div>
 </div>
 
