@@ -33,7 +33,7 @@ You can download all the files needed for this course here: [https://github.com/
 * 15:30 - 17:00 - [Practical - Data Viz 3 - Visualizing Point Patterns](/GDS_UA_2017/Visualizing_Point_Patterns/)
 
 ## Wednesday 25 January 2017 (DAY 3)
-* 09:20 - 10:50 - [Practical - Data Viz 4 - Mapping Flows](/GDS_UA_2017/Mapping_Flows/)
+* 09:20 - 10:50 - *Catchup Session*
 * 10:50 - 12:10 - Lecture / Independent - Introduction to the Group Project
 * _12:10 - 13:10 - LUNCH_
 * 13:10 - 14:00 -  Student Project Planning - Stage 1
@@ -43,6 +43,9 @@ You can download all the files needed for this course here: [https://github.com/
 ## Thursday 26 January 2017 (DAY 4)
 * 09:20 - 10:50 - Independent - Student Led Analysis - Stage 3
 * 10:50 - 12:40 - Presentation - Groups Talks and Prizes
+
+## Optional extra practical
+* [Practical - Data Viz 4 - Mapping Flows](/GDS_UA_2017/Mapping_Flows/)
 
 # Group Project Assignment
 
