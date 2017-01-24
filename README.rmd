@@ -33,11 +33,11 @@ You can download all the files needed for this course here: [https://github.com/
 * 15:30 - 17:00 - [Practical - Data Viz 3 - Visualizing Point Patterns](/GDS_UA_2017/Visualizing_Point_Patterns/)
 
 ## Wednesday 25 January 2017 (DAY 3)
-* 09:20 - 10:50 - *Catchup Session*
-* 10:50 - 12:10 - Lecture / Independent - Introduction to the Group Project
+* 09:20 - 10:50 - Lecture / Independent - Introduction to the Group Project
+* 10:50 - 12:10 - Student Project Planning - Stage 1 / Student Project Brief Review - Stage 2
 * _12:10 - 13:10 - LUNCH_
-* 13:10 - 14:00 -  Student Project Planning - Stage 1
-* 14:45 - 15:30 - Seminar - Student Project Brief Review - Stage 2
+* 13:10 - 14:00 - Student Project Brief Review - Stage 2
+* 14:45 - 15:30 - Independent - Student Led Analysis - Stage 3
 * 15:30 - 17:00 - Independent - Student Led Analysis - Stage 3
 
 ## Thursday 26 January 2017 (DAY 4)
@@ -49,7 +49,7 @@ You can download all the files needed for this course here: [https://github.com/
 
 # Group Project Assignment
 
-The group project will be introduced at 10.50 on Day 3. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assesment will be a 15 minute presentation in the final session on Thursday 26th January. 
+The group project will be introduced at 09.20 on Day 3. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assesment will be a 10-12 minute presentation in the final session on Thursday 26th January. 
 
 ## Assignment 
 
